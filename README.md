@@ -13,6 +13,5 @@ I am a student <br>Currently honing my front-end development, UI/UX designing sk
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SSworup77&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SSworup77&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=SSworup77&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
 
