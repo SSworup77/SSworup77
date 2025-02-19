@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student <br>Currently honing my front-end development, UI/UX designing skills
+I am a CS student <br>Currently honing my front-end development, UI/UX designing skills
 
 
 ## 🌐 Socials:
