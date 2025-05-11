@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a CS student <br>Currently honing my front-end development, UI/UX designing and Application development skills
-
+I am a CS student <br>Currently honing my front-end development, UI/UX designing and Application development skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sworup_shrestha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sworup-shrestha-49a1a2242/)
